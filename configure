@@ -1,0 +1,131 @@
+#!/bin/bash
+
+CC=g++
+CFLAGS="-fPIC -c"
+SWIG=swig
+SWIGFLAGS="-c++ -python -o"
+PYTHON=python
+PYTHON_VERSION=
+PYTHON_ROOT=
+PYTHON_INCLUDE=
+
+# Internal flags
+flag_no_python=
+
+for option
+do
+    case $option in
+
+    -help | --help | -h)
+        want_help=yes ;;
+
+    -with-python=* | --with-pyton=* )
+        PYTHON=`expr "x$option" : "x-*with-python=\(.*\)"`
+        ;;
+
+    -with-python-root=* | --with-python-root=* )
+        PYTHON_ROOT=`expr "x$option" : "x-*with-python-root=\(.*\)"`
+        ;;
+
+    -with-python-version=* | --whith-python-version=* )
+        PYTHON_VERSION=`expr "x$option" : "x-*with-python-version=\(.*\)"`
+        ;;
+
+    -*)
+        { echo "error: unrecognized option: $option
+            Try \`$0 --help' for more information." >&2
+            { (exit 1); exit 1; }; }
+        ;;
+
+    esac
+done
+
+if test "x$want_help" = xyes; then
+  cat <<EOF
+\`configure' configures stein to adapt to a few kinds of systems.
+
+Usage: $0 [OPTION]...
+
+Defaults for the options are specified in brackets.
+
+Configuration:
+  -h, --help                display this help and exit
+  --with-python=PYTHON      specify the Python executable [python]
+  --with-python-root=DIR    specify the root of the Python installation
+                            [automatically detected]
+  --with-python-version=X.Y specify the Python version as X.Y
+                            [automatically detected]
+
+EOF
+fi
+test -n "$want_help" && exit 0
+
+# Find python
+if test "x$flag_no_python" = x; then
+    result=`$PYTHON -c "exit" > /dev/null 2>&1`
+    if [ "$?" -ne "0" ]; then
+        flag_no_python=yes
+    fi
+fi
+
+if test "x$flag_no_python" = x; then
+    if test "x$PYTHON_VERSION" = x; then
+        echo -n "Detecting Python version... "
+        PYTHON_VERSION=`$PYTHON -c "import sys; print (\"%d.%d\" %
+        (sys.version_info[0], sys.version_info[1]))"`
+        echo $PYTHON_VERSION
+    fi
+
+    if test "x$PYTHON_ROOT" = x; then
+        echo -n "Detecting Python root... "
+        PYTHON_ROOT=`$PYTHON -c "import sys; print sys.prefix"`
+        echo $PYTHON_ROOT
+    fi
+	if test "x$PYTHON_INCLUDE" = x; then
+		echo -n "Detecting Python libraries... "
+		if  test -e $PYTHON_ROOT/include/python$PYTHON_VERSION/Python.h; then
+			PYTHON_INCLUDE="$PYTHON_ROOT/include/python$PYTHON_VERSION"
+		else
+			PYTHON_INCLUDE="./python"
+		fi
+		echo $PYTHON_INCLUDE
+	fi
+fi
+
+# Generate the Makefile
+echo "Generating Makefile..."
+cat > Makefile <<EOF
+CC=$CC
+CFLAGS=$CFLAGS
+SWIG=$SWIG
+SWIGFLAGS=$SWIGFLAGS
+PYTHON=$PYTHON
+PYTHON_VERSION=$PYTHON_VERSION
+PYTHON_ROOT=$PYTHON_ROOT
+PYTHON_INCLUDE=$PYTHON_INCLUDE
+	
+all: floydwarshall
+	@echo "chmod u+x stein.py"
+	@chmod u+x stein.py
+	
+swig: .dummy
+	@echo "\$(SWIG) \$(SWIGFLAGS) floydwarshall_wrap.cpp floydwarshall.i"
+	@\$(SWIG) \$(SWIGFLAGS) floydwarshall_wrap.cpp floydwarshall.i
+	
+floydwarshall: .dummy
+	@echo "\$(CC) \$(CFLAGS) floydwarshall.cpp floydwarshall_wrap.cpp -I\$(PYTHON_INCLUDE) -I\$(PYTHON_ROOT)/lib/python\$(PYTHON_VERSION)"
+	@\$(CC) \$(CFLAGS) floydwarshall.cpp floydwarshall_wrap.cpp -I\$(PYTHON_INCLUDE) -I\$(PYTHON_ROOT)/lib/python\$(PYTHON_VERSION)
+	@echo "\$(CC) -shared floydwarshall.o floydwarshall_wrap.o -o _floydwarshall.so"
+	@\$(CC) -shared floydwarshall.o floydwarshall_wrap.o -o _floydwarshall.so
+	
+clean: .dummy
+	rm -f *.pyc *.o *.so
+	
+distclean: clean
+	rm -f Makefile
+	
+.dummy:
+	
+.PHONY: clean distclean
+	
+EOF

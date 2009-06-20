@@ -1,0 +1,1805 @@
+Tentativa: 1
+Solucao: brasil58.txt
+Valor: 14574.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 0
+relax = 10
+*****************************
+Tentativa: 2
+Solucao: brasil58.txt
+Valor: 14490.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 0
+relax = 10
+*****************************
+
+Tentativa: 3
+Solucao: brasil58.txt
+Valor: 14315.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 1
+relax = 10
+*****************************
+Tentativa: 4
+Solucao: brasil58.txt
+Valor: 14406.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 1
+relax = 10
+*****************************
+
+Tentativa: 5
+Solucao: brasil58.txt
+Valor: 14301.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 2
+relax = 10
+*****************************
+Tentativa: 6
+Solucao: brasil58.txt
+Valor: 14455.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 2
+relax = 10
+*****************************
+
+Tentativa: 7
+Solucao: brasil58.txt
+Valor: 14612.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 3
+relax = 10
+*****************************
+Tentativa: 8
+Solucao: brasil58.txt
+Valor: 14473.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 3
+relax = 10
+*****************************
+
+Tentativa: 9
+Solucao: brasil58.txt
+Valor: 14521.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 4
+relax = 10
+*****************************
+Tentativa: 10
+Solucao: brasil58.txt
+Valor: 14088.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 4
+relax = 10
+*****************************
+
+Tentativa: 11
+Solucao: brasil58.txt
+Valor: 14048.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 5
+relax = 10
+*****************************
+Tentativa: 12
+Solucao: brasil58.txt
+Valor: 14377.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 5
+relax = 10
+*****************************
+
+Tentativa: 13
+Solucao: brasil58.txt
+Valor: 14823.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 6
+relax = 10
+*****************************
+Tentativa: 14
+Solucao: brasil58.txt
+Valor: 14508.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 6
+relax = 10
+*****************************
+
+Tentativa: 15
+Solucao: brasil58.txt
+Valor: 14443.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 7
+relax = 10
+*****************************
+Tentativa: 16
+Solucao: brasil58.txt
+Valor: 14754.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 7
+relax = 10
+*****************************
+
+Tentativa: 17
+Solucao: brasil58.txt
+Valor: 14204.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 8
+relax = 10
+*****************************
+Tentativa: 18
+Solucao: brasil58.txt
+Valor: 14368.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 8
+relax = 10
+*****************************
+
+Tentativa: 19
+Solucao: brasil58.txt
+Valor: 13986.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 9
+relax = 10
+*****************************
+Tentativa: 20
+Solucao: brasil58.txt
+Valor: 14212.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+mutacaoQuant = 9
+relax = 10
+*****************************
+
+Tentativa: 21
+Solucao: brasil58.txt
+Valor: 14470.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 0
+relax = 10
+*****************************
+Tentativa: 22
+Solucao: brasil58.txt
+Valor: 14352.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 0
+relax = 10
+*****************************
+
+Tentativa: 23
+Solucao: brasil58.txt
+Valor: 14598.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 1
+relax = 10
+*****************************
+Tentativa: 24
+Solucao: brasil58.txt
+Valor: 14432.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 1
+relax = 10
+*****************************
+
+Tentativa: 25
+Solucao: brasil58.txt
+Valor: 14402.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 2
+relax = 10
+*****************************
+Tentativa: 26
+Solucao: brasil58.txt
+Valor: 14577.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 2
+relax = 10
+*****************************
+
+Tentativa: 27
+Solucao: brasil58.txt
+Valor: 14171.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 3
+relax = 10
+*****************************
+Tentativa: 28
+Solucao: brasil58.txt
+Valor: 14260.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 3
+relax = 10
+*****************************
+
+Tentativa: 29
+Solucao: brasil58.txt
+Valor: 14363.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 4
+relax = 10
+*****************************
+Tentativa: 30
+Solucao: brasil58.txt
+Valor: 14100.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 4
+relax = 10
+*****************************
+
+Tentativa: 31
+Solucao: brasil58.txt
+Valor: 14266.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 5
+relax = 10
+*****************************
+Tentativa: 32
+Solucao: brasil58.txt
+Valor: 14464.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 5
+relax = 10
+*****************************
+
+Tentativa: 33
+Solucao: brasil58.txt
+Valor: 14416.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 6
+relax = 10
+*****************************
+Tentativa: 34
+Solucao: brasil58.txt
+Valor: 14372.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 6
+relax = 10
+*****************************
+
+Tentativa: 35
+Solucao: brasil58.txt
+Valor: 14476.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 7
+relax = 10
+*****************************
+Tentativa: 36
+Solucao: brasil58.txt
+Valor: 14431.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 7
+relax = 10
+*****************************
+
+Tentativa: 37
+Solucao: brasil58.txt
+Valor: 14501.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 8
+relax = 10
+*****************************
+Tentativa: 38
+Solucao: brasil58.txt
+Valor: 14054.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 8
+relax = 10
+*****************************
+
+Tentativa: 39
+Solucao: brasil58.txt
+Valor: 14603.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 9
+relax = 10
+*****************************
+Tentativa: 40
+Solucao: brasil58.txt
+Valor: 14405.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+mutacaoQuant = 9
+relax = 10
+*****************************
+
+Tentativa: 41
+Solucao: brasil58.txt
+Valor: 14696.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 0
+relax = 10
+*****************************
+Tentativa: 42
+Solucao: brasil58.txt
+Valor: 14589.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 0
+relax = 10
+*****************************
+
+Tentativa: 43
+Solucao: brasil58.txt
+Valor: 14778.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 1
+relax = 10
+*****************************
+Tentativa: 44
+Solucao: brasil58.txt
+Valor: 14284.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 1
+relax = 10
+*****************************
+
+Tentativa: 45
+Solucao: brasil58.txt
+Valor: 14493.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 2
+relax = 10
+*****************************
+Tentativa: 46
+Solucao: brasil58.txt
+Valor: 14367.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 2
+relax = 10
+*****************************
+
+Tentativa: 47
+Solucao: brasil58.txt
+Valor: 14378.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 3
+relax = 10
+*****************************
+Tentativa: 48
+Solucao: brasil58.txt
+Valor: 14193.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 3
+relax = 10
+*****************************
+
+Tentativa: 49
+Solucao: brasil58.txt
+Valor: 14541.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 4
+relax = 10
+*****************************
+Tentativa: 50
+Solucao: brasil58.txt
+Valor: 14446.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 4
+relax = 10
+*****************************
+
+Tentativa: 51
+Solucao: brasil58.txt
+Valor: 14224.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 5
+relax = 10
+*****************************
+Tentativa: 52
+Solucao: brasil58.txt
+Valor: 14547.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 5
+relax = 10
+*****************************
+
+Tentativa: 53
+Solucao: brasil58.txt
+Valor: 14274.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 6
+relax = 10
+*****************************
+Tentativa: 54
+Solucao: brasil58.txt
+Valor: 14382.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 6
+relax = 10
+*****************************
+
+Tentativa: 55
+Solucao: brasil58.txt
+Valor: 14530.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 7
+relax = 10
+*****************************
+Tentativa: 56
+Solucao: brasil58.txt
+Valor: 14611.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 7
+relax = 10
+*****************************
+
+Tentativa: 57
+Solucao: brasil58.txt
+Valor: 14461.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 8
+relax = 10
+*****************************
+Tentativa: 58
+Solucao: brasil58.txt
+Valor: 14019.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 8
+relax = 10
+*****************************
+
+Tentativa: 59
+Solucao: brasil58.txt
+Valor: 14461.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 9
+relax = 10
+*****************************
+Tentativa: 60
+Solucao: brasil58.txt
+Valor: 14434.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+mutacaoQuant = 9
+relax = 10
+*****************************
+
+Tentativa: 61
+Solucao: brasil58.txt
+Valor: 14538.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 0
+relax = 10
+*****************************
+Tentativa: 62
+Solucao: brasil58.txt
+Valor: 14169.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 0
+relax = 10
+*****************************
+
+Tentativa: 63
+Solucao: brasil58.txt
+Valor: 14438.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 1
+relax = 10
+*****************************
+Tentativa: 64
+Solucao: brasil58.txt
+Valor: 14252.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 1
+relax = 10
+*****************************
+
+Tentativa: 65
+Solucao: brasil58.txt
+Valor: 14364.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 2
+relax = 10
+*****************************
+Tentativa: 66
+Solucao: brasil58.txt
+Valor: 14439.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 2
+relax = 10
+*****************************
+
+Tentativa: 67
+Solucao: brasil58.txt
+Valor: 14292.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 3
+relax = 10
+*****************************
+Tentativa: 68
+Solucao: brasil58.txt
+Valor: 14303.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 3
+relax = 10
+*****************************
+
+Tentativa: 69
+Solucao: brasil58.txt
+Valor: 14330.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 4
+relax = 10
+*****************************
+Tentativa: 70
+Solucao: brasil58.txt
+Valor: 14591.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 4
+relax = 10
+*****************************
+
+Tentativa: 71
+Solucao: brasil58.txt
+Valor: 14151.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 5
+relax = 10
+*****************************
+Tentativa: 72
+Solucao: brasil58.txt
+Valor: 14083.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 5
+relax = 10
+*****************************
+
+Tentativa: 73
+Solucao: brasil58.txt
+Valor: 14116.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 6
+relax = 10
+*****************************
+Tentativa: 74
+Solucao: brasil58.txt
+Valor: 14143.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 6
+relax = 10
+*****************************
+
+Tentativa: 75
+Solucao: brasil58.txt
+Valor: 14281.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 7
+relax = 10
+*****************************
+Tentativa: 76
+Solucao: brasil58.txt
+Valor: 14221.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 7
+relax = 10
+*****************************
+
+Tentativa: 77
+Solucao: brasil58.txt
+Valor: 14615.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 8
+relax = 10
+*****************************
+Tentativa: 78
+Solucao: brasil58.txt
+Valor: 14108.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 8
+relax = 10
+*****************************
+
+Tentativa: 79
+Solucao: brasil58.txt
+Valor: 14325.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 9
+relax = 10
+*****************************
+Tentativa: 80
+Solucao: brasil58.txt
+Valor: 14415.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 30
+mutacaoQuant = 9
+relax = 10
+*****************************
+
+Tentativa: 81
+Solucao: brasil58.txt
+Valor: 14523.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 0
+relax = 10
+*****************************
+Tentativa: 82
+Solucao: brasil58.txt
+Valor: 14316.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 0
+relax = 10
+*****************************
+
+Tentativa: 83
+Solucao: brasil58.txt
+Valor: 14578.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 1
+relax = 10
+*****************************
+Tentativa: 84
+Solucao: brasil58.txt
+Valor: 14484.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 1
+relax = 10
+*****************************
+
+Tentativa: 85
+Solucao: brasil58.txt
+Valor: 14409.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 2
+relax = 10
+*****************************
+Tentativa: 86
+Solucao: brasil58.txt
+Valor: 14404.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 2
+relax = 10
+*****************************
+
+Tentativa: 87
+Solucao: brasil58.txt
+Valor: 14300.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 3
+relax = 10
+*****************************
+Tentativa: 88
+Solucao: brasil58.txt
+Valor: 14080.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 3
+relax = 10
+*****************************
+
+Tentativa: 89
+Solucao: brasil58.txt
+Valor: 14505.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 4
+relax = 10
+*****************************
+Tentativa: 90
+Solucao: brasil58.txt
+Valor: 14215.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 4
+relax = 10
+*****************************
+
+Tentativa: 91
+Solucao: brasil58.txt
+Valor: 14135.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 5
+relax = 10
+*****************************
+Tentativa: 92
+Solucao: brasil58.txt
+Valor: 14247.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 5
+relax = 10
+*****************************
+
+Tentativa: 93
+Solucao: brasil58.txt
+Valor: 14389.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 6
+relax = 10
+*****************************
+Tentativa: 94
+Solucao: brasil58.txt
+Valor: 14413.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 6
+relax = 10
+*****************************
+
+Tentativa: 95
+Solucao: brasil58.txt
+Valor: 14435.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 7
+relax = 10
+*****************************
+Tentativa: 96
+Solucao: brasil58.txt
+Valor: 14457.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 7
+relax = 10
+*****************************
+
+Tentativa: 97
+Solucao: brasil58.txt
+Valor: 14435.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 8
+relax = 10
+*****************************
+Tentativa: 98
+Solucao: brasil58.txt
+Valor: 14487.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 8
+relax = 10
+*****************************
+
+Tentativa: 99
+Solucao: brasil58.txt
+Valor: 14288.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 9
+relax = 10
+*****************************
+Tentativa: 100
+Solucao: brasil58.txt
+Valor: 14104.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 40
+mutacaoQuant = 9
+relax = 10
+*****************************
+
+Tentativa: 101
+Solucao: brasil58.txt
+Valor: 14509.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 0
+relax = 10
+*****************************
+Tentativa: 102
+Solucao: brasil58.txt
+Valor: 14260.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 0
+relax = 10
+*****************************
+
+Tentativa: 103
+Solucao: brasil58.txt
+Valor: 14265.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 1
+relax = 10
+*****************************
+Tentativa: 104
+Solucao: brasil58.txt
+Valor: 14589.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 1
+relax = 10
+*****************************
+
+Tentativa: 105
+Solucao: brasil58.txt
+Valor: 14481.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 2
+relax = 10
+*****************************
+Tentativa: 106
+Solucao: brasil58.txt
+Valor: 14290.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 2
+relax = 10
+*****************************
+
+Tentativa: 107
+Solucao: brasil58.txt
+Valor: 14096.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 3
+relax = 10
+*****************************
+Tentativa: 108
+Solucao: brasil58.txt
+Valor: 14269.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 3
+relax = 10
+*****************************
+
+Tentativa: 109
+Solucao: brasil58.txt
+Valor: 14378.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 4
+relax = 10
+*****************************
+Tentativa: 110
+Solucao: brasil58.txt
+Valor: 14214.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 4
+relax = 10
+*****************************
+
+Tentativa: 111
+Solucao: brasil58.txt
+Valor: 14156.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 5
+relax = 10
+*****************************
+Tentativa: 112
+Solucao: brasil58.txt
+Valor: 14340.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 5
+relax = 10
+*****************************
+
+Tentativa: 113
+Solucao: brasil58.txt
+Valor: 14546.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 6
+relax = 10
+*****************************
+Tentativa: 114
+Solucao: brasil58.txt
+Valor: 14298.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 6
+relax = 10
+*****************************
+
+Tentativa: 115
+Solucao: brasil58.txt
+Valor: 14649.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 7
+relax = 10
+*****************************
+Tentativa: 116
+Solucao: brasil58.txt
+Valor: 14391.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 7
+relax = 10
+*****************************
+
+Tentativa: 117
+Solucao: brasil58.txt
+Valor: 14305.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 8
+relax = 10
+*****************************
+Tentativa: 118
+Solucao: brasil58.txt
+Valor: 14458.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 8
+relax = 10
+*****************************
+
+Tentativa: 119
+Solucao: brasil58.txt
+Valor: 14462.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 9
+relax = 10
+*****************************
+Tentativa: 120
+Solucao: brasil58.txt
+Valor: 14280.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 50
+mutacaoQuant = 9
+relax = 10
+*****************************
+
+Tentativa: 121
+Solucao: brasil58.txt
+Valor: 14441.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 0
+relax = 10
+*****************************
+Tentativa: 122
+Solucao: brasil58.txt
+Valor: 14777.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 0
+relax = 10
+*****************************
+
+Tentativa: 123
+Solucao: brasil58.txt
+Valor: 14080.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 1
+relax = 10
+*****************************
+Tentativa: 124
+Solucao: brasil58.txt
+Valor: 14130.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 1
+relax = 10
+*****************************
+
+Tentativa: 125
+Solucao: brasil58.txt
+Valor: 14292.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 2
+relax = 10
+*****************************
+Tentativa: 126
+Solucao: brasil58.txt
+Valor: 14228.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 2
+relax = 10
+*****************************
+
+Tentativa: 127
+Solucao: brasil58.txt
+Valor: 14042.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 3
+relax = 10
+*****************************
+Tentativa: 128
+Solucao: brasil58.txt
+Valor: 14273.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 3
+relax = 10
+*****************************
+
+Tentativa: 129
+Solucao: brasil58.txt
+Valor: 14144.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 4
+relax = 10
+*****************************
+Tentativa: 130
+Solucao: brasil58.txt
+Valor: 14285.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 4
+relax = 10
+*****************************
+
+Tentativa: 131
+Solucao: brasil58.txt
+Valor: 14210.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 5
+relax = 10
+*****************************
+Tentativa: 132
+Solucao: brasil58.txt
+Valor: 14439.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 5
+relax = 10
+*****************************
+
+Tentativa: 133
+Solucao: brasil58.txt
+Valor: 14382.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 6
+relax = 10
+*****************************
+Tentativa: 134
+Solucao: brasil58.txt
+Valor: 14245.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 6
+relax = 10
+*****************************
+
+Tentativa: 135
+Solucao: brasil58.txt
+Valor: 14353.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 7
+relax = 10
+*****************************
+Tentativa: 136
+Solucao: brasil58.txt
+Valor: 14234.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 7
+relax = 10
+*****************************
+
+Tentativa: 137
+Solucao: brasil58.txt
+Valor: 14414.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 8
+relax = 10
+*****************************
+Tentativa: 138
+Solucao: brasil58.txt
+Valor: 14088.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 8
+relax = 10
+*****************************
+
+Tentativa: 139
+Solucao: brasil58.txt
+Valor: 14603.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 9
+relax = 10
+*****************************
+Tentativa: 140
+Solucao: brasil58.txt
+Valor: 14145.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 60
+mutacaoQuant = 9
+relax = 10
+*****************************
+
+Tentativa: 141
+Solucao: brasil58.txt
+Valor: 14342.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 0
+relax = 10
+*****************************
+Tentativa: 142
+Solucao: brasil58.txt
+Valor: 14205.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 0
+relax = 10
+*****************************
+
+Tentativa: 143
+Solucao: brasil58.txt
+Valor: 14201.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 1
+relax = 10
+*****************************
+Tentativa: 144
+Solucao: brasil58.txt
+Valor: 14381.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 1
+relax = 10
+*****************************
+
+Tentativa: 145
+Solucao: brasil58.txt
+Valor: 14303.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 2
+relax = 10
+*****************************
+Tentativa: 146
+Solucao: brasil58.txt
+Valor: 14532.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 2
+relax = 10
+*****************************
+
+Tentativa: 147
+Solucao: brasil58.txt
+Valor: 14282.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 3
+relax = 10
+*****************************
+Tentativa: 148
+Solucao: brasil58.txt
+Valor: 14245.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 3
+relax = 10
+*****************************
+
+Tentativa: 149
+Solucao: brasil58.txt
+Valor: 14493.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 4
+relax = 10
+*****************************
+Tentativa: 150
+Solucao: brasil58.txt
+Valor: 14455.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 4
+relax = 10
+*****************************
+
+Tentativa: 151
+Solucao: brasil58.txt
+Valor: 14025.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 5
+relax = 10
+*****************************
+Tentativa: 152
+Solucao: brasil58.txt
+Valor: 14145.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 5
+relax = 10
+*****************************
+
+Tentativa: 153
+Solucao: brasil58.txt
+Valor: 14251.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 6
+relax = 10
+*****************************
+Tentativa: 154
+Solucao: brasil58.txt
+Valor: 14306.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 6
+relax = 10
+*****************************
+
+Tentativa: 155
+Solucao: brasil58.txt
+Valor: 14053.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 7
+relax = 10
+*****************************
+Tentativa: 156
+Solucao: brasil58.txt
+Valor: 14200.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 7
+relax = 10
+*****************************
+
+Tentativa: 157
+Solucao: brasil58.txt
+Valor: 14455.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 8
+relax = 10
+*****************************
+Tentativa: 158
+Solucao: brasil58.txt
+Valor: 14091.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 8
+relax = 10
+*****************************
+
+Tentativa: 159
+Solucao: brasil58.txt
+Valor: 14042.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 9
+relax = 10
+*****************************
+Tentativa: 160
+Solucao: brasil58.txt
+Valor: 14350.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 70
+mutacaoQuant = 9
+relax = 10
+*****************************
+
+Tentativa: 161
+Solucao: brasil58.txt
+Valor: 14476.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 80
+mutacaoQuant = 0
+relax = 10
+*****************************
+Tentativa: 162
+Solucao: brasil58.txt
+Valor: 14537.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 80
+mutacaoQuant = 0
+relax = 10
+*****************************
+
+Tentativa: 163
+Solucao: brasil58.txt
+Valor: 14347.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 80
+mutacaoQuant = 1
+relax = 10
+*****************************
+Tentativa: 164
+Solucao: brasil58.txt
+Valor: 14488.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 80
+mutacaoQuant = 1
+relax = 10
+*****************************
+
+Tentativa: 165
+Solucao: brasil58.txt
+Valor: 14424.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 80
+mutacaoQuant = 2
+relax = 10
+*****************************
+Tentativa: 166
+Solucao: brasil58.txt
+Valor: 14170.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 80
+mutacaoQuant = 2
+relax = 10
+*****************************
+
+Tentativa: 167
+Solucao: brasil58.txt
+Valor: 14271.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 80
+mutacaoQuant = 3
+relax = 10
+*****************************
+Tentativa: 168
+Solucao: brasil58.txt
+Valor: 14329.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 80
+mutacaoQuant = 3
+relax = 10
+*****************************
+
+Tentativa: 169
+Solucao: brasil58.txt
+Valor: 14087.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 80
+mutacaoQuant = 4
+relax = 10
+*****************************
+Tentativa: 170
+Solucao: brasil58.txt
+Valor: 14126.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 80
+mutacaoQuant = 4
+relax = 10
+*****************************
+
+Tentativa: 171
+Solucao: brasil58.txt
+Valor: 14305.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 80
+mutacaoQuant = 5
+relax = 10
+*****************************
+Tentativa: 172
+Solucao: brasil58.txt
+Valor: 14230.0
+nivelDaPopulacao = 50
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 80
+mutacaoQuant = 5
+relax = 10
+*****************************

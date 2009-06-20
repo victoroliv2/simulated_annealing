@@ -1,0 +1,146 @@
+>>> ArQuIvO de LoG <<<
+===> Solucao: p401.stp
+
+Configuracao: 1
+mutacaoQuant = 0
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+Valores: 
+485.0
+557.0
+560.0
+
+*****************************
+Configuracao: 2
+mutacaoQuant = 1
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+Valores: 
+485.0
+508.0
+442.0
+
+*****************************
+Configuracao: 3
+mutacaoQuant = 2
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+Valores: 
+513.0
+580.0
+507.0
+
+*****************************
+Configuracao: 4
+mutacaoQuant = 3
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+Valores: 
+541.0
+504.0
+544.0
+
+*****************************
+Configuracao: 5
+mutacaoQuant = 4
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 0
+Valores: 
+538.0
+527.0
+522.0
+
+*****************************
+Configuracao: 6
+mutacaoQuant = 0
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+Valores: 
+652.0
+690.0
+656.0
+
+*****************************
+Configuracao: 7
+mutacaoQuant = 1
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+Valores: 
+639.0
+685.0
+719.0
+
+*****************************
+Configuracao: 8
+mutacaoQuant = 2
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+Valores: 
+699.0
+706.0
+666.0
+
+*****************************
+Configuracao: 9
+mutacaoQuant = 3
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+Valores: 
+699.0
+730.0
+754.0
+
+*****************************
+Configuracao: 10
+mutacaoQuant = 4
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 10
+Valores: 
+663.0
+730.0
+751.0
+
+*****************************
+Configuracao: 11
+mutacaoQuant = 0
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+Valores: 
+810.0
+809.0
+873.0
+
+*****************************
+Configuracao: 12
+mutacaoQuant = 1
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+Valores: 
+836.0
+803.0
+881.0
+
+*****************************
+Configuracao: 13
+mutacaoQuant = 2
+tamanho = 50
+tempo(s) = 50
+chanceMutacao = 20
+Valores: 
+808.0
+871.0
+777.0
+
+*****************************
